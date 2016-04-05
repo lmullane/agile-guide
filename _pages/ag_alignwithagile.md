@@ -7,10 +7,10 @@ title: Align with Agile and Scrum
 
 Agile is a mindset backed by methodologies that leaves a trail of techniques. For our purposes, any software method is considered agile if it follows the [manifesto](http://agilemanifesto.org/principles.html), which states:
 
-* Individual and interactions over processes and tools
-* Working software over comprehensive documentation
-* Customer collaboration over contract negotiation
-* Responding to change over following a plan
+ * Individual and interactions over processes and tools
+ * Working software over comprehensive documentation
+ * Customer collaboration over contract negotiation
+ * Responding to change over following a plan
 
 And while there is value on the items to the right, the items on the left are valued more.
 
